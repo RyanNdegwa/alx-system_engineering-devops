@@ -1,2 +1,2 @@
 #!/bin/bash
-chown if guillame hello betty
+chown if guillaume hello betty
